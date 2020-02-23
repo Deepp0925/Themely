@@ -4,8 +4,8 @@ A simple package for adding dark and light theme mode to web, electron and NW.js
 
 - [Install](#install)
 - [Setup](#setup)
-  -- [Build Your Own](#setup)
-  -- [Download for Themely App](https://deepp0925.github.io/Themely-App/)
+  - [Build Your Own](#setup)
+  - [Download for Themely App](https://deepp0925.github.io/Themely-App/)
 - [Usage](#usage)
 
 # Install
