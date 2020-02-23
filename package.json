@@ -1,0 +1,26 @@
+{
+  "name": "themely",
+  "version": "1.0.1",
+  "description": "A package for applying dark and light theme to web/ electron/ NW.js apps",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --project tsconfig.json"
+  },
+  "keywords": [
+    "Theme mode",
+    "Theme",
+    "web",
+    "electron",
+    "NW.js",
+    "Dark and Light",
+    "Dark",
+    "Light"
+  ],
+  "author": "Deep Patel",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^5.15.4"
+  }
+}
